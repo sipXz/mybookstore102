@@ -51,7 +51,7 @@ const HomePage = () => {
     <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-viridian-600 to-green-700 text-white">
-        <div className="bg-black container mx-auto px-4 py-24">
+        <div className="bg-gradient-to-t from-sky-500 to-indigo-500 container mx-auto px-4 py-24">
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fade-in">
               ยินดีต้อนรับสู่ <span className="text-yellow-300">BookStore</span>
